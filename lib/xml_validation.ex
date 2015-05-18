@@ -1,0 +1,2 @@
+defmodule XmlValidation do
+end
